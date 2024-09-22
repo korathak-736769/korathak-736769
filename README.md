@@ -1,31 +1,33 @@
 # 👋 Hello World! I'm Korathank Kongpana (Mxverick)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Aspiring+Full-Stack+Developer;AI+%26+Cyber+Security+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Back-End+Developer;Framework+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
 ## 💫 About Me
 
-I'm an undergraduate student majoring in Computer Engineering, with a passion for cutting-edge technologies. My journey in the tech world spans across various domains, making me adaptable and versatile.
+I'm an undergraduate student majoring in Computer Engineering, with a strong focus on back-end development and a passion for working with various frameworks. While I have a broad interest in technology, I specialize in creating robust server-side applications.
 
 - 🎓 Currently pursuing a Bachelor's degree in Computer Engineering
-- 🔭 Working on AI-driven web applications
-- 🌱 Continuously learning about Machine Learning and Cyber Security
-- 👯 Looking to collaborate on innovative projects that push the boundaries of technology
-- 💬 Ask me about Full-Stack Development, AI, or Cyber Security
+- 💻 Primarily focused on back-end development
+- 🛠️ Enthusiastic about working with different frameworks to build efficient solutions
+- 🌱 Continuously exploring new technologies and frameworks in the software development world
+- 👀 Curious about AI and Cyber Security, but mainly as side interests
 - 🌐 Check out my portfolio: [Maverick Portfolio](https://mxverick.ddns.net)
 
-## 🚀 Skills I'm Developing
+## 🚀 Skills and Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ## 📊 GitHub Stats
