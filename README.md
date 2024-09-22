@@ -1,19 +1,21 @@
 # 👋 Hello World! I'm Korathank Kongpana (Mxverick)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Enthusiast;Cyber+Security+Explorer&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Aspiring+Full-Stack+Developer;AI+%26+Cyber+Security+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
 ## 💫 About Me
 
-I'm a passionate developer with a keen interest in cutting-edge technologies. My journey in the tech world spans across various domains, making me a versatile and adaptive professional.
+I'm an undergraduate student majoring in Computer Engineering, with a passion for cutting-edge technologies. My journey in the tech world spans across various domains, making me adaptable and versatile.
 
-- 🔭 I'm currently working on AI-driven web applications
-- 🌱 I'm continuously learning about Machine Learning and Cyber Security
-- 👯 I'm looking to collaborate on innovative projects that push the boundaries of technology
+- 🎓 Currently pursuing a Bachelor's degree in Computer Engineering
+- 🔭 Working on AI-driven web applications
+- 🌱 Continuously learning about Machine Learning and Cyber Security
+- 👯 Looking to collaborate on innovative projects that push the boundaries of technology
 - 💬 Ask me about Full-Stack Development, AI, or Cyber Security
+- 🌐 Check out my portfolio: [Maverick Portfolio](https://mxverick.ddns.net)
 
-## 🚀 Skills
+## 🚀 Skills I'm Developing
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,6 +37,9 @@ I'm a passionate developer with a keen interest in cutting-edge technologies. My
 ## 🌐 Connect with me
 
 <p align="center">
+  <a href="https://mxverick.ddns.net">
+    <img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+  </a>
   <a href="mailto:korathank.k@mail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
