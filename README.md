@@ -1,4 +1,7 @@
-# 👋 Hello World! I'm Korathank Kongpana (Mxverick)
+# 👋 Hello World! 
+
+I'm **Korathank Kongpana** (*Mxverick*).
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Enthusiast;Cyber+Security+Explorer&font=Fira%20Code&center=true&width=380&height=50">
