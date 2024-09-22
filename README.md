@@ -1,6 +1,5 @@
-# 👋 Hello World! I'm Korathank Kongpana (Mxverick)
-
 <div align="center">
+👋 Hello World! I'm Mxverick
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Back-End+Developer;Framework+Enthusiast&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
