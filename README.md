@@ -39,17 +39,20 @@ I'm an undergraduate student majoring in Computer Engineering, with a strong foc
   <a href="https://mxverick.ddns.net">
     <img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=internetexplorer&logoColor=white" />
   </a>
-  <a href="mailto:korathank.k@mail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/korathak-736769">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/your_facebook">
+  <a href="https://gitlab.com/korathank.k1">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100068970676013">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your_instagram">
+  <a href="https://www.instagram.com/k.vii_ghiaccio">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/your_youtube">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.linkedin.com/in/koratank-kongpanna-8b0798301">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
