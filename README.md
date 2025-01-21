@@ -32,7 +32,7 @@ I'm an undergraduate student majoring in Computer Engineering, with a strong foc
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://mxverick.ddns.net">
+  <a href="https://portfolio-programmer-gamma.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=internetexplorer&logoColor=white" />
   </a>
   <a href="https://github.com/korathak-736769">
