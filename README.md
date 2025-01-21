@@ -15,7 +15,7 @@ I'm an undergraduate student majoring in Computer Engineering, with a strong foc
 - 🛠️ Enthusiastic about working with different frameworks to build efficient solutions
 - 🌱 Continuously exploring new technologies and frameworks in the software development world
 - 👀 Curious about AI and Cyber Security, but mainly as side interests
-- 🌐 Check out my portfolio: [Maverick Portfolio](https://mxverick.ddns.net)
+- 🌐 Check out my portfolio: [Maverick Portfolio](https://portfolio-programmer-gamma.vercel.app/)
 
 ## 🚀 Skills and Technologies
 
